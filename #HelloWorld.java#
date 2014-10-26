@@ -1,0 +1,13 @@
+public class HelloWorld
+{
+	public static void main(String[] args)
+	{
+		byte b = 127;
+		b = (byte)(b + 10);
+		SOP(b);
+	}
+}
+
+
+
+
